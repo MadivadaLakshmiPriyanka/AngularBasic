@@ -1,0 +1,6 @@
+To install Angular 4 download Nodejs,npm,Angular CLI,VisualStudioCode
+
+Type node -v to check nodejs
+Type npm -v to check npm
+npm install -g @angular/cli - to install Angular CLI
+ng new ProjectName
